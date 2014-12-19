@@ -1,0 +1,1 @@
+Django official 'polls' tutorial using v1.7
